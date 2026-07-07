@@ -1,4 +1,17 @@
-# Hola me llamo Mia Tadini, tengo 22 años y esta es mi informacion personal <3
-Soy estudiante de programacion de la UNSJ. Actualmente estoy en 3er año con algunas materias de 2do.
-Los lenguajes que aprendi hace un par de eños atras por mi cuenta son HTML, CSS, y un poco de java, y despues aprendi en la facultad C++, C, y Python.
-Ahora estoy buscando trabajar y empezar a relacionarme mas con este mundo. Me gustaria aprender y pulir mis conocimentos.
+# Mia Tadini
+## 📚 Skills
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend & Systems**: C++, C, Python
+- **Currently Learning**: [Add what you're learning now]
+## 🎯 Goals
+- Encontrar mi primer trabajo como programadora
+- Mejorar y profundizar mis conocimientos
+- Contribuir a proyectos interesantes
+## 📫 Contact
+- Email: [tadinimia@gmail.com]
+- LinkedIn: [Mia Tadini]
+- Phone: [(+54) 2644523205]
+- GitHub: [@miatadini](https://github.com/miatadini)
+## 💼 Projects
+[Add links projects or portfolio... in proces]
+
